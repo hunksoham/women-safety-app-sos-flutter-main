@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "858947528406",
+    "project_id": "sourajit-4475a",
+    "storage_bucket": "sourajit-4475a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858947528406:android:f7cd3be90b68cb3ef60b77",
+        "android_client_info": {
+          "package_name": "com.example.women_safety_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQJubu8LFuSLknOWx0NXSEHNBNg6YyBmk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
